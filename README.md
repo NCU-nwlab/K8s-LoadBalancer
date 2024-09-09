@@ -66,7 +66,7 @@ Note: We do not need their optional packages.
 # Loading XDP Program
 Compile the kernel space file in the src directory:
 ```
-cd src/
+cd src/xdp-redir-server
 make
 ```
 
