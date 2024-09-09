@@ -1,0 +1,5 @@
+*.o
+.vscode
+xdp_redir_user
+*.json
+test*
