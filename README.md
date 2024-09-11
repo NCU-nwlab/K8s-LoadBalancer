@@ -1,4 +1,5 @@
 # K8s-LoadBalancer
+This project is to build a LoadBalancer based on eBPF
 
 # Dependencies
 ## Git Submodules
